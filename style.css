@@ -18,7 +18,7 @@ html, body {
 
 section {
     max-width: 100rem;
-    margin: 4rem auto;
+    margin: 4rem 9rem;
     padding: 0 2rem;
     box-sizing: border-box;
 }
@@ -229,12 +229,14 @@ img.logo {
     gap: 1.5rem;
     max-width: 600px;
     margin-top: 2rem;
+    position: relative;
+    
     /* DARK */
     /* border-radius: var(--radius);
     border: 1px solid #ccc;
     padding: 1rem;
-    background: #333333;
-    color: #fff; */
+    color: #fff;
+    background: #333333; */
 }
 
 .notify-form input[type="text"],
