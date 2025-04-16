@@ -88,7 +88,7 @@ img.logo {
 }
 
 
-/* DEFAULT */
+/* INFO */
 .infos {
     /* gap: 1rem; */
     /* position: relative; */
@@ -230,13 +230,6 @@ img.logo {
     max-width: 600px;
     margin-top: 2rem;
     position: relative;
-    
-    /* DARK */
-    /* border-radius: var(--radius);
-    border: 1px solid #ccc;
-    padding: 1rem;
-    color: #fff;
-    background: #333333; */
 }
 
 .notify-form input[type="text"],
