@@ -291,7 +291,10 @@ img.logo {
     font-weight: 900;
     color: #813F98;
 }
-
+.panel p a {
+    color: #813F98;
+    font-weight: 700;
+}
 .nav {
     font-size: 1.5em;
 }
